@@ -31,6 +31,14 @@ At Curiosity's location, the results look visually very similar - reference the 
 ![Curiosity's Location](output-data/cold-hot-month.png)
 
 ### Which months have the lowest and the highest atmospheric pressure on Mars?
+Based on my analysis, Month 9 has the highest atmospheric pressure with 913.305970 Pascal (Pa). The month with the lowest atmospheric pressure is Month 6 with an atmospheric pressure of 745.054422 Pascal (Pa). 
+
+![Atmospheric Pressure](output-data/average-pressure-month)
+
+### About how many terrestrial (Earth) days exist in a Martian year?
+The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
+
+![Terrestrial Days](output-data/terrestrail-days)
 
 
 
